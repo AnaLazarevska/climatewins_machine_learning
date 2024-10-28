@@ -21,6 +21,8 @@ The data includes variables such as temperature, wind speed, snow, global radiat
 
 Citation: “We acknowledge the data providers in the ECA&D project. Klein Tank, A.M.G. and Coauthors, 2002. Daily dataset of 20th-century surface air temperature and precipitation series for the European Climate Assessment. Int. J. of Climatol., 22, 1441-1453. Data and metadata available at https://www.ecad.eu”, Accessed via CareerFoundy on <15/10/2024>. 
 
+Note: Due to data limitation, the prepared datasets could not be uploaded to this repository.
+
 ## Tools and Technologies
 
 - Python: The primary programming language used for data analysis and visualisation.
